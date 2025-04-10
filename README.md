@@ -31,5 +31,3 @@ Sou estudante de Ciência da Computação e apaixonada por tecnologia, especialm
 
 ## Contato
 Sinta-se à vontade para entrar em contato comigo!
-
-![Cobrinha](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
