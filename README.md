@@ -17,7 +17,7 @@ Sou estudante de Ciência da Computação e apaixonada por tecnologia, especialm
 
 ##
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrianyalbano&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrianyalbano&layout=compact&title_color=FFFFFF&text_color=ffffff&bg_color=0d1117&border_color=30363d" width="100%" height="150">
 
 ## Sobre Mim
 - 🌱 Possuo conhecimento em Java, Spring Boot, Angular, Javascript, Typescript SQL.
